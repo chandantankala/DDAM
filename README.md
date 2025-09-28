@@ -16,4 +16,4 @@ Traditional associative memories store and retrieve vectors. Our framework exten
 - Richer representation of complex data
 - Natural handling of distributional data (e.g., Gaussian embeddings)
 
-The model uses a log-sum-exp energy functional:
+The model uses a log-sum-exp energy functional.
